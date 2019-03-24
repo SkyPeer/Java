@@ -56,7 +56,7 @@ public class Operators {
 
         boolean resultBoolean = boolVal && boolVal2;
 
-        
+
 
         System.out.println("resultBoolean = "+resultBoolean);
     }
