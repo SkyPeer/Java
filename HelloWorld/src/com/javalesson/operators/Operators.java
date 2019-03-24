@@ -41,7 +41,26 @@ public class Operators {
         System.out.println("res1 = " + res1);
         System.out.println("res2 = " + res2);
 
+
+// == != < > <= >= && || ?:
+
+        int x = 3;
+        int y = 5;
+        int z = 8;
+
+        boolean boolVal = n >= m;
+
+        System.out.println("BoolVal = "+boolVal);
+
+        boolean boolVal2 = y<z;
+
+        boolean resultBoolean = boolVal && boolVal2;
+
+        
+
+        System.out.println("resultBoolean = "+resultBoolean);
     }
+
 
 
 }
